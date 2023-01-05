@@ -1,6 +1,7 @@
 # RecSysBook
 Book Recommender System using collaborative filtering and content-based filtering method. 
-- Link dataset: https://drive.google.com/drive/folders/1j1E8vp4tTuwEciqd5ANy0AsUOpBt66bz?usp=share_link
+- Link dataset: https://drive.google.com/drive/folders/1j1E8vp4tTuwEciqd5ANy0AsUOpBt66bz?usp=share_link (
+To get the dataset, please send me a request.)
 - Dataset is crawled from Tiki, use Tiki API and Selenium 
 books set: ~16.000 book,
 ratings set: ~144.000 rating (>2700 user)
